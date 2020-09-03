@@ -1,6 +1,7 @@
 {
   "projects": {
-    "default": "ohioh-research",
-    "deploy": "ohioh-research"
+    "default": "ohioh-sandbox",
+    "deploy": "ohioh-sandboxs",
+    "sandbox": "ohioh-sandbox"
   }
 }
