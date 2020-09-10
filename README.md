@@ -1,3 +1,17 @@
+Folder Structure and Content:
+
+-utility.js (X.x)
+
+(x.x) utility.js:
+1.0
+2.0
+2.1 sendData()-Function to send Data to explicit Backend
+(this is destructured to generalize the usage by define storage and object at the input
+->sendData(fetchStorage,JSON-Object-Array)
+
+
+
+
 https://ohioh-sandbox.web.app
 
 
